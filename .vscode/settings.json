@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "select.h": "c",
+        "stdbool.h": "c",
+        "stddef.h": "c",
+        "thread-sync.h": "c",
+        "math.h": "c",
+        "time.h": "c"
+    }
+}
